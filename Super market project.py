@@ -64,7 +64,7 @@ for i in range(len(Items)):
             print(50*" ","Finalamount:","Rs",Finalamount)
             print(75*"-")
             print(20*" ","Thanks for visting")
-            print(75*"-")
+            print(75*"-") 
 
                 
                
